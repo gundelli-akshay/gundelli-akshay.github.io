@@ -12,6 +12,3 @@ desktop.ini
 # Logs and scratch
 *.log
 scratch/
-
-# Profile picture
-main site/img/pfp.png
